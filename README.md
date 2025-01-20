@@ -1,2 +1,2 @@
-# egrof
-Egrof keyboard
+# lopt
+Lopt keyboard
